@@ -8,4 +8,4 @@
 
 * This script is comprehensive and covers most areas of data wrangling. It's preserved as a go to resource when I cannot instantly remember the code I need. 
 
-Click [here](https://public.tableau.com/views/WhichcountrieslikethesameNetflixshowsandmovies/Movies?:language=en-US&:display_count=n&:origin=viz_share_link) to view the results in Tableau.
+* Click [here](https://public.tableau.com/views/WhichcountrieslikethesameNetflixshowsandmovies/Movies?:language=en-US&:display_count=n&:origin=viz_share_link) to view the results in Tableau.
