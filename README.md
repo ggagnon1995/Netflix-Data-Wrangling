@@ -1,6 +1,6 @@
 # Netflix Data Wrangling 
 
-# [Project 2: Data Wrangling: Overview](https://github.com/ggagnon1995/Netflix-Data-Wrangling)
+# Project 2: Data Wrangling: Overview
 
 * Data wrangling using Netflix data
 
