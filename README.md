@@ -1,8 +1,9 @@
-# Netflix-Data-Wrangling
-Data wrangling using Netflix data
+# Netflix Data Wrangling 
 
-The purpose of this exercise is to cover all the basic areas of data wrangling in Python. World-wide Netflix viewer data is obtained for the time period March 2021 - January 2022. The data is broken down into two final data frames that represent each countries #1 most watched show and #1 most watched movie based on the number of weeks the title was in that countries top 10. Once the data is processed, it is loaded into Tableau to generate an interactive graph where you can see which countries liked the same titles. 
+# [Project 2: Data Wrangling: Overview](https://github.com/ggagnon1995/Netflix-Data-Wrangling)
 
-One result might make you laugh - The movie Canada liked the most was "How the Grinch Stole Christmas"! 
+* Data wrangling using Netflix data
 
-Use this link to view the results in Tableau: https://public.tableau.com/views/WhichcountrieslikethesameNetflixshowsandmovies/Movies?:language=en-US&:display_count=n&:origin=viz_share_link
+* The purpose of this exercise is to cover all the basic areas of data wrangling in Python. World-wide Netflix viewer data is obtained for the time period March 2021 - January 2022. The data is broken down into two final data frames that represent each countries #1 most watched show and #1 most watched movie based on the number of weeks the title was in that countries top 10. Once the data is processed, it is loaded into Tableau to generate an interactive graph where you can see which countries liked the same titles. 
+
+Click [here](https://public.tableau.com/views/WhichcountrieslikethesameNetflixshowsandmovies/Movies?:language=en-US&:display_count=n&:origin=viz_share_link) to view the results in Tableau: 
